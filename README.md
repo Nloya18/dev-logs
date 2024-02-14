@@ -11,4 +11,6 @@
 ### 02-12-2024
     * Started research on a match predictor but for another league
     * Also another way to scrape my data much better and more often
+### 02-14-2024
+    * Started reading a the book "Designing Data Intensive Application"
     
